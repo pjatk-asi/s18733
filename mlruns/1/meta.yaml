@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/BartoszKaminski/OneDrive%20-%20predicadevbk/Desktop/s18733/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: stroke prediction

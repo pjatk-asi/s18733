@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BartoszKaminski/OneDrive%20-%20predicadevbk/Desktop/s18733/mlruns/1/7a0d6e9e50c64ea5a6a4f4d06b040a4a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 7a0d6e9e50c64ea5a6a4f4d06b040a4a
+run_uuid: 7a0d6e9e50c64ea5a6a4f4d06b040a4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1655476980876
+status: 1
+tags: []
+user_id: BartoszKaminski
