@@ -6,19 +6,19 @@
 4. [About author](#about-author)
 
 
-## General##
+## General ##
 
 The main purpose of this app is to predict stroke based on lifestyle. Initially, we will use real input data to train the model and check whether it will adequately predict the results of the test data. The next step will be to reverse the initial results, find drift and retrain the model on new data.
 
-## Data##
+## Data ##
 
 Our data is a set of basic information about a given person, such as age, gender. The next data concern the lifestyle, whether the person smokes, what kind of job they have. There is also medical data such as average glucose level. What interests us the most is the stroke column, which indicates whether a person with a given lifestyle suffered a stroke or not.
 
 
-## Architecture## 
+## Architecture ## 
 
 
-## Installation##
+## Installation ##
 If you have installed conda all you need to do is:
 1. Create environment:
 	$ conda env create -f environment.yml
