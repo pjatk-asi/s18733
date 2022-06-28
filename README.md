@@ -24,6 +24,8 @@ If you have installed conda all you need to do is:
 	$ conda env create -f environment.yml
 2. Activate enviroment:
 	$ conda activate ASI
+3. Run script 
+	pipeline.py
 
 ## About author ##
 Bartosz Kami?ski - S18733
